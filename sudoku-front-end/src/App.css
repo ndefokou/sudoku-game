@@ -2,9 +2,9 @@
   --color1: rgb(233, 181, 172);
   --color1-dark: rgb(201, 153, 145);
   --color1-darker: rgba(170, 129, 122, 0.747);
-  --color2: rgb(139, 125, 171);
-  --color2-dark: rgb(103, 93, 128);
-  --color2-darker: rgb(68, 61, 85);
+  --color2: rgb(171, 125, 163);
+  --color2-dark: rgb(6, 1, 19);
+  --color2-darker: rgb(5, 2, 14);
 }
 
 * {
@@ -30,7 +30,7 @@ body {
   align-items: center;
   justify-content: center;
   background-color: var(--color2); /* Background color for Sudoku component */
-  padding: 50px;
+  padding: 15px;
 }
 
 .Sudoku h1 {
